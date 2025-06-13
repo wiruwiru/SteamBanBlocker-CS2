@@ -1,0 +1,6 @@
+{
+  "prefix": "{green}[{lightred}SteamBanBlocker{green}] {red}➜ {default}",
+  "subprefix": "{red}➜ {default}",
+
+  "kicked": "{0} was kicked from the server"
+}
